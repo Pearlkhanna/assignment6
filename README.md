@@ -1,4 +1,4 @@
-# assignment6
+# telcom customer churn analysis
 # about datasets
 this is the best python file of dataset of telco churn analysis. 
 #insights
